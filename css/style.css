@@ -134,3 +134,20 @@ img {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 480px) {
+    .row {
+        flex-direction: column;
+    }
+
+
+    .why-us .col-left {
+        width: 100%;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
+
+}
