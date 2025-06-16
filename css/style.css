@@ -166,4 +166,22 @@ img {
     .steps {
         margin-bottom: 0;
     }
+
+
+    .col {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+
+    img {
+        margin: 3rem 0rem;
+    }
+
+    body {
+        font-weight: bold;
+    }
+
+    .container {
+        padding: 0 55px;
+    }
 }
