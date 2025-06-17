@@ -146,18 +146,9 @@ img {
         flex-direction: column;
     }
 
-    .why-us .col-left {
-        width: 100%;
-    }
-
-    .why-us .col-right {
-        width: 100%;
-    }
-
-    .steps .col {
-        width: 100%;
-    }
-
+    .why-us .col-left,
+    .why-us .col-right,
+    .steps .col,
     .lessons .col {
         width: 100%;
     }
